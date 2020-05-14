@@ -1,17 +1,13 @@
 # GOALS LIST
 
 ## Visualization side
-1. Get the geocoordinates for mile markers (possibly on data side)
-2. Display traffic network
-3. Display traffic by average/rush hour
-4. Display traffic by times
+1. Utilize tableau to produce better visualizations for the project
 
 ## Data side
-1. Geocoordinates?
-2. Figure out average traffic -> times
-3. Figure out how number of lanes impacts times
-4. Self driving car times
+1. Annotate Jupyter Code
+2. Use regression (bayesian?) to find percentages of over threshold
+3. Calculate lane increases to flow and percentage of traffic in number of lanes 
+4. Find a better measure than overflow percentage?
 
-## Math side
-1. Research traffic mathematics
-2. See if people have done similar things
+NOTE: Would it make more sense to figure out sum overflow over percentage?
+DO A FEW DIFFERENT MEASURES AND THEN DO A LINEAR REGRESSION OFF OF ALL OF THESE?
